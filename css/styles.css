@@ -1,0 +1,15 @@
+.container-fluid{
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header{
+    
+    
+}
+.footer{
+    width: 800px;
+    margin: 15px;
+}
+
